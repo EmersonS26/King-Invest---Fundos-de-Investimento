@@ -1,6 +1,6 @@
 ## 📊 KING INVEST — Simulador de FII no Excel + Desafio DIO de Excel
 
-![banner](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Investment_Icon.svg/240px-Investment_Icon.svg.png)
+![banner](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Investment_Icon.svg/240px-Investment_EXC.png)
 
 Bem-vindo ao **King Invest**, seu novo parceiro para simular investimentos em Fundos Imobiliários (FII) de forma prática, visual e divertida — tudo dentro do Excel! 👑💼
 
