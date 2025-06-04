@@ -16,10 +16,13 @@ Este projeto permite que você:
 ✔️ Simule o rendimento de uma carteira FII com rentabilidade mensal
 ✔️ Veja projeções de patrimônio ao longo dos anos
 ✔️ Estime os dividendos mensais ao final do período
-✔️ Tenha uma carteira diversificada,de acordo com os perfís e com sugestão de alocação: 
-**Conservador** : "Pouco risco, indicado para iniciantes ou renda de até 10 mil reais." 
-**Moderado** : "Risco médio, indicado para um perfil equilibrado e que pode ter alguns riscos, renda de 12 até 30 mil reais."
-**Agressivo** : "Risco alto, indicado para os mais experientes ou pessoas com rendas acima de 50 mil reais."
+✔️ Tenha uma carteira diversificada,de acordo com os perfís e com sugestão de alocação:
+
+* **Conservador** : "Pouco risco, indicado para iniciantes ou renda de até 10 mil reais."
+
+* **Moderado** : "Risco médio, indicado para um perfil equilibrado e que pode ter alguns riscos, renda de 12 até 30 mil reais."
+
+* **Agressivo** : "Risco alto, indicado para os mais experientes ou pessoas com rendas acima de 50 mil reais."
 
 ---
 
